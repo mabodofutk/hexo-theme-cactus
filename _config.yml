@@ -17,7 +17,7 @@ nav:
   home: /
   about: /about/
   articles: /archives/
-  projects: https://github.com/mabodofutk
+  # projects: https://github.com/mabodofutk
   tag: /tags/
   category: /categories/
 
